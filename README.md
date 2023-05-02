@@ -33,14 +33,14 @@ Examples included are:
 
 WORKS ONLY WITH UNITY - THIS IS THE UNITY VERSION OF NVIDIA FLEX
 
-**DISCLAIMER:**
+It has come to my attention as of recently, that an unspecified company that may or may not include Open & AI in it's name sent an Cease and Desist letter to a fellow educational reposity's creator, so I have the joy of presenting you with a brand new legal notice to avoid quick triggerfingers from the legal departments of huge greedy companies;
 
-I am not saying that I own Flex, or the rights to it. I am here to merely distribute the package. Flex was removed from the Unity Asset Store a while back, and it was pretty hard to get your hands on it after that happened. I managed to find a download to it, and decided to share it with the world once again as I think that it's quite an interesting package.
+**LEGAL DISCLAIMER:**
+
+I am not saying that I own Flex, or the rights to it, nor the rights to distribute it. All the content in this reposity, excluding the screenshots of course, are owned by NVIDIA. This entire reposity is for EDUCATIONAL USE ONLY, and in no way or form is this supposed to be an endorsement for illegal use, such as piracy of this package. 
 
 [The license in this reposity was taken from the official NVIDIA reposity for the downloadable Flex demo]
 
-You are not allowed to use *this* plugin of Flex commercially, but you should be allowed to try to find other ways of getting Flex working in Unity. 
+THIS IS ONLY FOR RESEARCH, EDUCATIONAL AND TESTING PURPOSES.
 
-THIS IS ONLY FOR RESEARCH AND TESTING PURPOSES.
-
-Thanks, and have fun! - "Tespinen", or Timi.
+Thanks, and have fun. -Tespinen
