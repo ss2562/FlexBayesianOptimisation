@@ -8,7 +8,6 @@ public class ControlSimulations : MonoBehaviour
 {
     public float sim_time = 0.0f;
     private float t_max = 14.0f;
-    public GameObject crackObject;
     SelectFluidParameters fluidParametersSelector = new SelectFluidParameters();
     CaptureParticlePositions positionCapturer = new CaptureParticlePositions();
     private string pythonFilePath = "python_output";
